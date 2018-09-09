@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(14): warning C4101: 'tempo_total': unreferenced local variable
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(37): warning C4101: 'tempo_total': unreferenced local variable
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(64): warning C4101: 'tempo_total': unreferenced local variable
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(87): warning C4101: 'tempo_total': unreferenced local variable
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(121): warning C4101: 'tempo_total': unreferenced local variable
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(155): warning C4101: 'tempo_total': unreferenced local variable
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(185): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\bucher\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(230): warning C4715: 'menu': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Bucher\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Bucher\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
